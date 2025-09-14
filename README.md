@@ -9,7 +9,7 @@ A Java console-based program that simulates navigating through a maze using conn
 - Each room displays its name and available movement directions  
 - Console-based interaction with movement commands (`n`, `s`, `e`, `w`)  
 - Error messages for invalid moves  
-- Finishes when the user reaches the designated end room (room **L**) 
+- Finishes when the user reaches the designated end room (room L) 
 
 ---
 
