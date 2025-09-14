@@ -1,4 +1,3 @@
-package Assignment10;
 import java.util.Scanner;
 public class Maze {
 
@@ -112,3 +111,4 @@ public class Maze {
 	}
 
 }
+
