@@ -1,6 +1,6 @@
 # Maze-Navigation
 
-A Java console-based program that simulates navigating through a maze using connected nodes. Each room in the maze is represented by a `Node` object, with references to neighboring rooms in the north, south, east, and west directions. The program allows the user to move through the maze step by step until reaching the finish.
+A Java console-based program that simulates navigating through a maze using connected nodes. Each room in the maze is represented by a Node object, with references to neighboring rooms in the north, south, east, and west directions. The program allows the user to move through the maze step by step until reaching the finish.
 
 ---
 
